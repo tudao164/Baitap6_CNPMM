@@ -84,7 +84,7 @@ const Profile = () => {
                 {
                     full_name: profile.full_name,
                     phone: profile.phone,
-                    avatar_url: "dt1.jpg"
+                    avatar_url: "anhThe.jpg"
                 },
                 { headers: { Authorization: `Bearer ${token}` } }
             );
